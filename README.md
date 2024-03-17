@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning all I need to
 - 💞️ I’m open to collaborate on data analytics projects
 - 📫 maryt.daini@gmail.com
-- 😄 She/Her ...
-- ⚡ Fun fact: ...
+- 😄 She/Her
+
 
 <!---
 Maryt-D/Maryt-D is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
